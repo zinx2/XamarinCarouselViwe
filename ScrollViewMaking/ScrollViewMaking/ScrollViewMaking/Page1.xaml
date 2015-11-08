@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:lvw ="clr-namespace:ScrollViewMaking;assembly=ScrollViewMaking"
+             x:Class="ScrollViewMaking.Page1">
+  <StackLayout >
+    <ScrollView Orientation="Horizontal" HeightRequest="50">
+      <StackLayout HeightRequest="50" Orientation="Horizontal" BackgroundColor="#00AFFF">
+        <Label WidthRequest="50" HeightRequest="50" TextColor="Black" Text="월"/>
+        <Label WidthRequest="50" HeightRequest="50" TextColor="Black" Text="화"/>
+        <Label WidthRequest="50" HeightRequest="50" TextColor="Black" Text="수"/>
+        <Label WidthRequest="50" HeightRequest="50" TextColor="Black" Text="목"/>
+        <Label WidthRequest="50" HeightRequest="50" TextColor="Black" Text="금"/>
+        <Label WidthRequest="50" HeightRequest="50" TextColor="Black" Text="토"/>
+        <Label WidthRequest="50" HeightRequest="50" TextColor="Black" Text="일"/>
+        <Label WidthRequest="50" HeightRequest="50" TextColor="Black" Text="신규"/>
+        <Label WidthRequest="50" HeightRequest="50" TextColor="Black" Text="해제"/>
+      </StackLayout>
+    </ScrollView>
+
+    <lvw:Sc></lvw:Sc>
+
+  </StackLayout>
+</ContentPage>

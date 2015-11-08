@@ -1,0 +1,13 @@
+E:\Documents\Visual Studio 2015\Projects\ScrollViewMaking\ScrollViewMaking\ScrollViewMaking\bin\Debug\ScrollViewMaking.dll
+E:\Documents\Visual Studio 2015\Projects\ScrollViewMaking\ScrollViewMaking\ScrollViewMaking\bin\Debug\ScrollViewMaking.pdb
+E:\Documents\Visual Studio 2015\Projects\ScrollViewMaking\ScrollViewMaking\ScrollViewMaking\bin\Debug\Xamarin.Forms.Core.dll
+E:\Documents\Visual Studio 2015\Projects\ScrollViewMaking\ScrollViewMaking\ScrollViewMaking\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Documents\Visual Studio 2015\Projects\ScrollViewMaking\ScrollViewMaking\ScrollViewMaking\bin\Debug\Xamarin.Forms.Core.xml
+E:\Documents\Visual Studio 2015\Projects\ScrollViewMaking\ScrollViewMaking\ScrollViewMaking\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Documents\Visual Studio 2015\Projects\ScrollViewMaking\ScrollViewMaking\ScrollViewMaking\obj\Debug\Page1.xaml.g.cs
+E:\Documents\Visual Studio 2015\Projects\ScrollViewMaking\ScrollViewMaking\ScrollViewMaking\obj\Debug\Lv.xaml.g.cs
+E:\Documents\Visual Studio 2015\Projects\ScrollViewMaking\ScrollViewMaking\ScrollViewMaking\obj\Debug\ScrollViewMaking.dll
+E:\Documents\Visual Studio 2015\Projects\ScrollViewMaking\ScrollViewMaking\ScrollViewMaking\obj\Debug\ScrollViewMaking.pdb
+E:\Documents\Visual Studio 2015\Projects\ScrollViewMaking\ScrollViewMaking\ScrollViewMaking\obj\Debug\ScrollViewMaking.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\ScrollViewMaking\ScrollViewMaking\ScrollViewMaking\obj\Debug\Sc.xaml.g.cs
+E:\Documents\Visual Studio 2015\Projects\ScrollViewMaking\ScrollViewMaking\ScrollViewMaking\obj\Debug\Sl.xaml.g.cs
